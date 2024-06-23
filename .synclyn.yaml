@@ -1,0 +1,8 @@
+app: nodejs
+version: 18
+
+hooks:
+  deploy: 
+    - npm install
+  start: 
+     - node index.js
