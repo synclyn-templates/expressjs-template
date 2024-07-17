@@ -1,5 +1,5 @@
 app: nodejs
-version: 18
+version: 22
 
 hooks:
   deploy: 
